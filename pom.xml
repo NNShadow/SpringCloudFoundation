@@ -18,6 +18,8 @@
         <module>Feign</module>
         <module>NativeConfigServer</module>
         <module>NativeConfigClient</module>
+        <module>ZipkinServer</module>
+        <module>ZipkinClient</module>
     </modules>
 
     <parent>

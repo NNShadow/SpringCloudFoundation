@@ -7,14 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="NativeConfigClient" />
+        <module name="eurekaclient" />
         <module name="Consumer" />
         <module name="Ribbon" />
         <module name="Zuul" />
         <module name="RestTemplate" />
-        <module name="Feign" />
+        <module name="ZipkinClient" />
+        <module name="ZipkinServer" />
         <module name="eurekaserver" />
         <module name="NativeConfigServer" />
-        <module name="eurekaclient" />
+        <module name="Feign" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -28,6 +30,8 @@
       <module name="RestTemplate" target="1.8" />
       <module name="Ribbon" target="1.8" />
       <module name="SpringCloudFoundation" target="1.8" />
+      <module name="ZipkinClient" target="1.8" />
+      <module name="ZipkinServer" target="1.8" />
       <module name="Zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -40,6 +44,8 @@
       <module name="NativeConfigServer" options="-parameters" />
       <module name="RestTemplate" options="-parameters" />
       <module name="Ribbon" options="-parameters" />
+      <module name="ZipkinClient" options="-parameters" />
+      <module name="ZipkinServer" options="-parameters" />
       <module name="Zuul" options="-parameters" />
       <module name="eurekaclient" options="-parameters" />
       <module name="eurekaserver" options="-parameters" />
