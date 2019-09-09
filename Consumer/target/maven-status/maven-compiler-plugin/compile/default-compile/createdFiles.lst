@@ -1,0 +1,3 @@
+com\eureka\ConsumerApplication.class
+com\eureka\entity\Student.class
+com\eureka\controller\ConsumerController.class

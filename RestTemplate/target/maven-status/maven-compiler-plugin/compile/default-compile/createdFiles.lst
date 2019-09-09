@@ -1,0 +1,3 @@
+com\eureka\entity\Student.class
+com\eureka\controller\RestTemplateController.class
+com\eureka\RestTemplateApplication.class

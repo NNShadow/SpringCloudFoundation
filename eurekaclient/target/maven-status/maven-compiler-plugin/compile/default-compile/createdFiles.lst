@@ -1,0 +1,5 @@
+com\eureka\entity\Student.class
+com\eureka\controller\StudentController.class
+com\eureka\ProviderApplication.class
+com\eureka\repository\impl\StudentRepositoryImpl.class
+com\eureka\repository\StudentRepository.class

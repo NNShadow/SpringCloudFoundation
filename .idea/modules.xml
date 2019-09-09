@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Consumer/Consumer.iml" filepath="$PROJECT_DIR$/Consumer/Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Feign/Feign.iml" filepath="$PROJECT_DIR$/Feign/Feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NativeConfigClient/NativeConfigClient.iml" filepath="$PROJECT_DIR$/NativeConfigClient/NativeConfigClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NativeConfigServer/NativeConfigServer.iml" filepath="$PROJECT_DIR$/NativeConfigServer/NativeConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestTemplate/RestTemplate.iml" filepath="$PROJECT_DIR$/RestTemplate/RestTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ribbon/Ribbon.iml" filepath="$PROJECT_DIR$/Ribbon/Ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudFoundation.iml" filepath="$PROJECT_DIR$/SpringCloudFoundation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloudFoundation.iml" filepath="$PROJECT_DIR$/.idea/SpringCloudFoundation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zuul/Zuul.iml" filepath="$PROJECT_DIR$/Zuul/Zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaclient/eurekaclient.iml" filepath="$PROJECT_DIR$/eurekaclient/eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+    </modules>
+  </component>
+</project>
